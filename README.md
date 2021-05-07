@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakkamakka
 - 👀 I’m interested in React development
 - 🌱 I’m currently learning/perfecting React, Angular and Spanish :)
-- 💞️ I’m looking to collaborate on anything dev related
+- 💞️ I’m looking to collaborate on anything dev related but I also have some nice UI skills
 - 📫 How to reach me : linkedin.com/in/tjankui-lamon-549476161/
 
 <!---
