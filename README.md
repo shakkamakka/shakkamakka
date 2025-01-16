@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakkamakka
-- 🌱 I’m currently learning/perfecting React, Angular and Spanish :)
-- 💞️ I’m looking to collaborate on anything dev related but I also have some nice UI/UX skills
-- 👀 I'm mostly active on https://gitlab.com/shakkamakka
+- 🌱 I’m currently open to work :)
+- 💞️ I’m looking to collaborate on anything dev or design related to improve my UI/UX skills
+- 👀 I'm mostly active on https://gitlab.com/lemooncode
 - 📫 How to reach me : linkedin.com/in/tjankui-lamon-549476161/
 
 <!---
