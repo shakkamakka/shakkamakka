@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakkamakka
 - 🌱 I’m currently open to work :)
 - 💞️ I’m looking to collaborate on anything dev or design related to improve my UI/UX skills
-- 👀 I'm mostly active on https://gitlab.com/lemooncode
+- 👀 I'm mostly also active on https://gitlab.com/lemooncode
 - 📫 How to reach me : linkedin.com/in/tjankui-lamon-549476161/
 
 <!---
